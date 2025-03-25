@@ -1,0 +1,10 @@
+/target/
+
+*.log
+
+/nbproject/private/
+/build/
+
+/.idea/
+/.vscode/
+/*.iml
